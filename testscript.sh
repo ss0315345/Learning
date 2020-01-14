@@ -2,4 +2,4 @@
 echo "This script is from GITLAB"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This is complete"
+echo "This is automatically completed"
